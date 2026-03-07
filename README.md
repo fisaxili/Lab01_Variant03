@@ -36,7 +36,7 @@
 
 ```bash
 git clone https://github.com/fisaxili/Lab01_Variant03.git
-cd 
+cd Lab01_Variant03
 ```
 
 ### Запуск приложения
