@@ -35,7 +35,7 @@
 ### Клонирование репозитория
 
 ```bash
-git clone https://github.com/IrishinT/BookShop.git
+git clone https://github.com/fisaxili/Lab01_Variant03.git
 cd 
 ```
 
